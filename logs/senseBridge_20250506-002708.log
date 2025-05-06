@@ -1,0 +1,16 @@
+2025-05-06 00:27:08 - INFO - root - C:\Users\User\PycharmProjects\senseBridge\src\utils\logger.py:68 - Logging initialized
+2025-05-06 00:27:08 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:47 - Initializing SenseBridge...
+2025-05-06 00:27:08 - WARNING - src.utils.hardware_detection - C:\Users\User\PycharmProjects\senseBridge\src\utils\hardware_detection.py:80 - Bluetooth not available
+2025-05-06 00:27:08 - INFO - src.utils.hardware_detection - C:\Users\User\PycharmProjects\senseBridge\src\utils\hardware_detection.py:22 - Hardware detection: Platform=Windows, RaspberryPi=False, GPIO=False, Audio=True, Bluetooth=False, Display=False
+2025-05-06 00:27:08 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:51 - Hardware capabilities: {'platform': 'Windows', 'is_raspberry_pi': False, 'has_gpio': False, 'has_audio': True, 'has_bluetooth': False, 'has_display': False}
+2025-05-06 00:27:08 - WARNING - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:55 - No display detected, switching to headless mode
+2025-05-06 00:27:08 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:63 - Running in simulation mode
+2025-05-06 00:27:08 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:62 - Device configuration loaded
+2025-05-06 00:27:08 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:109 - Sound events configuration loaded
+2025-05-06 00:27:08 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:164 - User preferences loaded
+2025-05-06 00:27:08 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:48 - Config manager initialized
+2025-05-06 00:27:08 - INFO - src.hardware.device_control - C:\Users\User\PycharmProjects\senseBridge\src\hardware\device_control.py:63 - DeviceController initialized
+2025-05-06 00:27:08 - WARNING - root - C:\Users\User\PycharmProjects\senseBridge\src\notification\haptic_feedback.py:14 - Real bluetooth module not available, using mock
+2025-05-06 00:27:08 - ERROR - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:88 - Error initializing SenseBridge: No module named 'paho'
+2025-05-06 00:27:08 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:198 - Stopping SenseBridge...
+2025-05-06 00:27:08 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:220 - SenseBridge stopped

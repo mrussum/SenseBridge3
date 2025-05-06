@@ -1,0 +1,32 @@
+2025-05-06 00:32:14 - INFO - root - C:\Users\User\PycharmProjects\senseBridge\src\utils\logger.py:68 - Logging initialized
+2025-05-06 00:32:14 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:47 - Initializing SenseBridge...
+2025-05-06 00:32:14 - WARNING - src.utils.hardware_detection - C:\Users\User\PycharmProjects\senseBridge\src\utils\hardware_detection.py:80 - Bluetooth not available
+2025-05-06 00:32:14 - INFO - src.utils.hardware_detection - C:\Users\User\PycharmProjects\senseBridge\src\utils\hardware_detection.py:22 - Hardware detection: Platform=Windows, RaspberryPi=False, GPIO=False, Audio=True, Bluetooth=False, Display=False
+2025-05-06 00:32:14 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:51 - Hardware capabilities: {'platform': 'Windows', 'is_raspberry_pi': False, 'has_gpio': False, 'has_audio': True, 'has_bluetooth': False, 'has_display': False}
+2025-05-06 00:32:14 - WARNING - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:55 - No display detected, switching to headless mode
+2025-05-06 00:32:14 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:63 - Running in simulation mode
+2025-05-06 00:32:14 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:62 - Device configuration loaded
+2025-05-06 00:32:14 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:109 - Sound events configuration loaded
+2025-05-06 00:32:14 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:164 - User preferences loaded
+2025-05-06 00:32:14 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:48 - Config manager initialized
+2025-05-06 00:32:14 - INFO - src.hardware.device_control - C:\Users\User\PycharmProjects\senseBridge\src\hardware\device_control.py:63 - DeviceController initialized
+2025-05-06 00:32:14 - WARNING - root - C:\Users\User\PycharmProjects\senseBridge\src\notification\haptic_feedback.py:14 - Real bluetooth module not available, using mock
+2025-05-06 00:32:14 - INFO - src.notification.haptic_feedback - C:\Users\User\PycharmProjects\senseBridge\src\notification\haptic_feedback.py:69 - HapticFeedback initialized
+2025-05-06 00:32:14 - INFO - src.notification.visual_notification - C:\Users\User\PycharmProjects\senseBridge\src\notification\visual_notification.py:55 - VisualNotification initialized
+2025-05-06 00:32:14 - INFO - src.notification.notification_manager - C:\Users\User\PycharmProjects\senseBridge\src\notification\notification_manager.py:51 - NotificationManager initialized
+2025-05-06 00:32:14 - INFO - src.hardware.wearable - C:\Users\User\PycharmProjects\senseBridge\src\hardware\wearable.py:50 - WearableDevice initialized
+2025-05-06 00:32:14 - INFO - src.speech.speech_to_text - C:\Users\User\PycharmProjects\senseBridge\src\speech\speech_to_text.py:48 - SpeechToText initialized
+2025-05-06 00:32:14 - INFO - src.audio.audio_processor - C:\Users\User\PycharmProjects\senseBridge\src\audio\audio_processor.py:36 - AudioProcessor initialized with sample rate: 16000 Hz
+2025-05-06 00:32:14 - INFO - src.models.sound_classifier - C:\Users\User\PycharmProjects\senseBridge\src\models\sound_classifier.py:45 - SoundClassifier initialized
+2025-05-06 00:32:14 - INFO - src.audio.sound_recognition - C:\Users\User\PycharmProjects\senseBridge\src\audio\sound_recognition.py:46 - SoundRecognition initialized with sensitivity: 0.70
+2025-05-06 00:32:14 - INFO - src.gui.app - C:\Users\User\PycharmProjects\senseBridge\src\gui\app.py:31 - SenseBridgeApp initializing...
+2025-05-06 00:32:14 - INFO - src.gui.app - C:\Users\User\PycharmProjects\senseBridge\src\gui\app.py:54 - Running in headless mode
+2025-05-06 00:32:14 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:126 - Simulator UI created
+2025-05-06 00:32:14 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:85 - SenseBridge initialized
+2025-05-06 00:32:14 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:132 - Starting SenseBridge...
+2025-05-06 00:32:14 - INFO - src.notification.haptic_feedback - C:\Users\User\PycharmProjects\senseBridge\src\notification\haptic_feedback.py:88 - Haptic feedback system started
+2025-05-06 00:32:14 - INFO - src.notification.visual_notification - C:\Users\User\PycharmProjects\senseBridge\src\notification\visual_notification.py:75 - Visual notification system started
+2025-05-06 00:32:14 - INFO - src.notification.notification_manager - C:\Users\User\PycharmProjects\senseBridge\src\notification\notification_manager.py:76 - Notification manager started
+2025-05-06 00:32:14 - ERROR - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:174 - Error starting SenseBridge: 'WearableDevice' object has no attribute '_connection_loop'
+2025-05-06 00:32:14 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:198 - Stopping SenseBridge...
+2025-05-06 00:32:14 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:198 - Stopping SenseBridge...

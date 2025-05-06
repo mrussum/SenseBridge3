@@ -1,0 +1,47 @@
+2025-05-06 03:41:59 - INFO - root - C:\Users\User\PycharmProjects\senseBridge\src\utils\logger.py:68 - Logging initialized
+2025-05-06 03:41:59 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:47 - Initializing SenseBridge...
+2025-05-06 03:41:59 - WARNING - src.utils.hardware_detection - C:\Users\User\PycharmProjects\senseBridge\src\utils\hardware_detection.py:80 - Bluetooth not available
+2025-05-06 03:41:59 - INFO - src.utils.hardware_detection - C:\Users\User\PycharmProjects\senseBridge\src\utils\hardware_detection.py:22 - Hardware detection: Platform=Windows, RaspberryPi=False, GPIO=False, Audio=True, Bluetooth=False, Display=False
+2025-05-06 03:41:59 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:51 - Hardware capabilities: {'platform': 'Windows', 'is_raspberry_pi': False, 'has_gpio': False, 'has_audio': True, 'has_bluetooth': False, 'has_display': False}
+2025-05-06 03:41:59 - WARNING - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:55 - No display detected, switching to headless mode
+2025-05-06 03:41:59 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:63 - Running in simulation mode
+2025-05-06 03:41:59 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:62 - Device configuration loaded
+2025-05-06 03:41:59 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:109 - Sound events configuration loaded
+2025-05-06 03:41:59 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:164 - User preferences loaded
+2025-05-06 03:41:59 - INFO - src.utils.config - C:\Users\User\PycharmProjects\senseBridge\src\utils\config.py:48 - Config manager initialized
+2025-05-06 03:41:59 - INFO - src.hardware.device_control - C:\Users\User\PycharmProjects\senseBridge\src\hardware\device_control.py:63 - DeviceController initialized
+2025-05-06 03:41:59 - WARNING - root - C:\Users\User\PycharmProjects\senseBridge\src\notification\haptic_feedback.py:14 - Real bluetooth module not available, using mock
+2025-05-06 03:41:59 - INFO - src.notification.haptic_feedback - C:\Users\User\PycharmProjects\senseBridge\src\notification\haptic_feedback.py:69 - HapticFeedback initialized
+2025-05-06 03:41:59 - INFO - src.notification.visual_notification - C:\Users\User\PycharmProjects\senseBridge\src\notification\visual_notification.py:55 - VisualNotification initialized
+2025-05-06 03:41:59 - INFO - src.notification.notification_manager - C:\Users\User\PycharmProjects\senseBridge\src\notification\notification_manager.py:51 - NotificationManager initialized
+2025-05-06 03:41:59 - INFO - src.hardware.wearable - C:\Users\User\PycharmProjects\senseBridge\src\hardware\wearable.py:50 - WearableDevice initialized
+2025-05-06 03:42:00 - INFO - src.speech.speech_to_text - C:\Users\User\PycharmProjects\senseBridge\src\speech\speech_to_text.py:58 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (Realtek(R) Audio)', 'Primary Sound Capture Driver', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (Realtek(R) Audio)', 'Speakers (Realtek(R) Audio)', 'Microphone Array (Realtek(R) Audio)', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array 1 (Realtek HD Audio Mic input with SST)', 'Microphone Array 2 (Realtek HD Audio Mic input with SST)', 'Microphone Array 3 (Realtek HD Audio Mic input with SST)', 'FrontMic (Realtek HD Audio Front Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)']
+2025-05-06 03:42:00 - INFO - src.speech.speech_to_text - C:\Users\User\PycharmProjects\senseBridge\src\speech\speech_to_text.py:79 - SpeechToText initialized
+2025-05-06 03:42:00 - INFO - src.audio.audio_processor - C:\Users\User\PycharmProjects\senseBridge\src\audio\audio_processor.py:36 - AudioProcessor initialized with sample rate: 16000 Hz
+2025-05-06 03:42:00 - INFO - src.models.sound_classifier - C:\Users\User\PycharmProjects\senseBridge\src\models\sound_classifier.py:45 - SoundClassifier initialized
+2025-05-06 03:42:00 - INFO - src.audio.sound_recognition - C:\Users\User\PycharmProjects\senseBridge\src\audio\sound_recognition.py:46 - SoundRecognition initialized with sensitivity: 0.70
+2025-05-06 03:42:00 - INFO - src.gui.app - C:\Users\User\PycharmProjects\senseBridge\src\gui\app.py:31 - SenseBridgeApp initializing...
+2025-05-06 03:42:00 - INFO - src.gui.app - C:\Users\User\PycharmProjects\senseBridge\src\gui\app.py:54 - Running in headless mode
+2025-05-06 03:42:00 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:126 - Simulator UI created
+2025-05-06 03:42:00 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:85 - SenseBridge initialized
+2025-05-06 03:42:00 - INFO - src - C:\Users\User\PycharmProjects\senseBridge\src\main.py:132 - Starting SenseBridge...
+2025-05-06 03:42:00 - INFO - src.notification.haptic_feedback - C:\Users\User\PycharmProjects\senseBridge\src\notification\haptic_feedback.py:206 - Connecting to wearable at 00:11:22:33:44:55...
+2025-05-06 03:42:00 - INFO - src.notification.haptic_feedback - C:\Users\User\PycharmProjects\senseBridge\src\notification\haptic_feedback.py:220 - Connected to wearable device
+2025-05-06 03:42:00 - INFO - src.notification.haptic_feedback - C:\Users\User\PycharmProjects\senseBridge\src\notification\haptic_feedback.py:88 - Haptic feedback system started
+2025-05-06 03:42:00 - INFO - src.notification.visual_notification - C:\Users\User\PycharmProjects\senseBridge\src\notification\visual_notification.py:75 - Visual notification system started
+2025-05-06 03:42:00 - INFO - src.notification.notification_manager - C:\Users\User\PycharmProjects\senseBridge\src\notification\notification_manager.py:76 - Notification manager started
+2025-05-06 03:42:00 - INFO - src.hardware.wearable - C:\Users\User\PycharmProjects\senseBridge\src\hardware\wearable.py:143 - Connecting to wearable at 00:11:22:33:44:55...
+2025-05-06 03:42:00 - INFO - src.hardware.wearable - C:\Users\User\PycharmProjects\senseBridge\src\hardware\wearable.py:70 - Wearable device manager started
+2025-05-06 03:42:00 - INFO - src.speech.speech_to_text - C:\Users\User\PycharmProjects\senseBridge\src\speech\speech_to_text.py:110 - Adjusting for ambient noise...
+2025-05-06 03:42:00 - INFO - src.hardware.wearable - C:\Users\User\PycharmProjects\senseBridge\src\hardware\wearable.py:157 - Wearable response: b'MOCK_DATA'
+2025-05-06 03:42:00 - INFO - src.hardware.wearable - C:\Users\User\PycharmProjects\senseBridge\src\hardware\wearable.py:162 - Connected to wearable device
+2025-05-06 03:42:02 - INFO - src.speech.speech_to_text - C:\Users\User\PycharmProjects\senseBridge\src\speech\speech_to_text.py:113 - Energy threshold set to 22.53951494290994
+2025-05-06 03:42:02 - INFO - src.speech.speech_to_text - C:\Users\User\PycharmProjects\senseBridge\src\speech\speech_to_text.py:116 - Starting continuous speech recognition
+2025-05-06 03:42:02 - INFO - src.speech.speech_to_text - C:\Users\User\PycharmProjects\senseBridge\src\speech\speech_to_text.py:195 - Trying microphone with index 4
+2025-05-06 03:42:02 - INFO - src.speech.speech_to_text - C:\Users\User\PycharmProjects\senseBridge\src\speech\speech_to_text.py:121 - Speech to text started
+2025-05-06 03:42:02 - INFO - src.audio.audio_processor - C:\Users\User\PycharmProjects\senseBridge\src\audio\audio_processor.py:48 - Audio processor started
+2025-05-06 03:42:02 - INFO - src.models.sound_classifier - C:\Users\User\PycharmProjects\senseBridge\src\models\sound_classifier.py:54 - Loading sound classification model...
+2025-05-06 03:42:02 - INFO - src.models.sound_classifier - C:\Users\User\PycharmProjects\senseBridge\src\models\sound_classifier.py:72 - Model loaded in 0.02 seconds
+2025-05-06 03:42:02 - INFO - src.models.sound_classifier - C:\Users\User\PycharmProjects\senseBridge\src\models\sound_classifier.py:73 - Model has 968 sound classes
+2025-05-06 03:42:02 - INFO - src.audio.sound_recognition - C:\Users\User\PycharmProjects\senseBridge\src\audio\sound_recognition.py:123 - Calibrating ambient noise level...
+2025-05-06 03:42:02 - INFO - src.audio.sound_recognition - C:\Users\User\PycharmProjects\senseBridge\src\audio\sound_recognition.py:63 - Sound recognition started
