@@ -1,0 +1,39 @@
+{
+  "notifications": {
+    "haptic": true,
+    "visual": true,
+    "smart_home": false,
+    "simulation_mode": true,
+    "haptic_enabled": true,
+    "visual_enabled": true,
+    "smart_home_enabled": false
+  },
+  "speech_to_text": {
+    "enabled": true,
+    "simulation_mode": false,
+    "language": "en-US",
+    "timeout": 10,
+    "phrase_time_limit": 10,
+    "energy_threshold": 50,
+    "adjust_for_ambient_noise": true,
+    "pause_threshold": 0.3,
+    "dynamic_energy_threshold": true,
+    "phrase_threshold": 0.1,
+    "non_speaking_duration": 0.3
+  },
+  "sound_detection": {
+    "sensitivity": 0.7,
+    "min_confidence": 0.6,
+    "ambient_adjustment": true,
+    "simulation_mode": true,
+    "enabled": true,
+    "use_fallback": true
+  },
+  "smart_home": {
+    "mqtt_broker": "",
+    "mqtt_port": 1883,
+    "mqtt_username": "",
+    "mqtt_password": "",
+    "light_topic": "senseBridge/lights"
+  }
+}
